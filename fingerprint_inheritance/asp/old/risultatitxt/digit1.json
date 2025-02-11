@@ -1,0 +1,740 @@
+{
+  "edges": [
+	{
+	  "ID1": 15,
+	  "ID2": 5,
+	  "type": edge,
+	  "misterious_field": 138,
+	  "color": 0
+	},
+	{
+	  "ID1": 17,
+	  "ID2": 11,
+	  "type": edge,
+	  "misterious_field": 174,
+	  "color": 0
+	},
+	{
+	  "ID1": 17,
+	  "ID2": 7,
+	  "type": edge,
+	  "misterious_field": 162,
+	  "color": 0
+	},
+	{
+	  "ID1": 22,
+	  "ID2": 20,
+	  "type": edge,
+	  "misterious_field": 16,
+	  "color": 0
+	},
+	{
+	  "ID1": 23,
+	  "ID2": 22,
+	  "type": edge,
+	  "misterious_field": 7,
+	  "color": 0
+	},
+	{
+	  "ID1": 25,
+	  "ID2": 13,
+	  "type": edge,
+	  "misterious_field": 214,
+	  "color": 0
+	},
+	{
+	  "ID1": 25,
+	  "ID2": 14,
+	  "type": edge,
+	  "misterious_field": 214,
+	  "color": 0
+	},
+	{
+	  "ID1": 27,
+	  "ID2": 16,
+	  "type": edge,
+	  "misterious_field": 213,
+	  "color": 0
+	},
+	{
+	  "ID1": 29,
+	  "ID2": 28,
+	  "type": edge,
+	  "misterious_field": 13,
+	  "color": 0
+	},
+	{
+	  "ID1": 2,
+	  "ID2": 1,
+	  "type": edge,
+	  "misterious_field": 10,
+	  "color": 0
+	},
+	{
+	  "ID1": 34,
+	  "ID2": 24,
+	  "type": edge,
+	  "misterious_field": 247,
+	  "color": 0
+	},
+	{
+	  "ID1": 34,
+	  "ID2": 26,
+	  "type": edge,
+	  "misterious_field": 239,
+	  "color": 0
+	},
+	{
+	  "ID1": 37,
+	  "ID2": 32,
+	  "type": edge,
+	  "misterious_field": 234,
+	  "color": 0
+	},
+	{
+	  "ID1": 39,
+	  "ID2": 100,
+	  "type": internal,
+	  "misterious_field": 252,
+	  "color": 0
+	},
+	{
+	  "ID1": 39,
+	  "ID2": 35,
+	  "type": edge,
+	  "misterious_field": 213,
+	  "color": 0
+	},
+	{
+	  "ID1": 39,
+	  "ID2": 83,
+	  "type": internal,
+	  "misterious_field": 159,
+	  "color": 0
+	},
+	{
+	  "ID1": 39,
+	  "ID2": 86,
+	  "type": internal,
+	  "misterious_field": 231,
+	  "color": 0
+	},
+	{
+	  "ID1": 39,
+	  "ID2": 88,
+	  "type": internal,
+	  "misterious_field": 195,
+	  "color": 0
+	},
+	{
+	  "ID1": 41,
+	  "ID2": 66,
+	  "type": internal,
+	  "misterious_field": 185,
+	  "color": 0
+	},
+	{
+	  "ID1": 41,
+	  "ID2": 69,
+	  "type": internal,
+	  "misterious_field": 96,
+	  "color": 0
+	},
+	{
+	  "ID1": 46,
+	  "ID2": 45,
+	  "type": edge,
+	  "misterious_field": 7,
+	  "color": 0
+	},
+	{
+	  "ID1": 47,
+	  "ID2": 46,
+	  "type": edge,
+	  "misterious_field": 2,
+	  "color": 0
+	},
+	{
+	  "ID1": 48,
+	  "ID2": 75,
+	  "type": internal,
+	  "misterious_field": 220,
+	  "color": 0
+	},
+	{
+	  "ID1": 48,
+	  "ID2": 90,
+	  "type": internal,
+	  "misterious_field": 146,
+	  "color": 0
+	},
+	{
+	  "ID1": 4,
+	  "ID2": 2,
+	  "type": edge,
+	  "misterious_field": 17,
+	  "color": 0
+	},
+	{
+	  "ID1": 54,
+	  "ID2": 53,
+	  "type": edge,
+	  "misterious_field": 2,
+	  "color": 0
+	},
+	{
+	  "ID1": 56,
+	  "ID2": 54,
+	  "type": edge,
+	  "misterious_field": 11,
+	  "color": 0
+	},
+	{
+	  "ID1": 59,
+	  "ID2": 60,
+	  "type": edge,
+	  "misterious_field": 1,
+	  "color": 0
+	},
+	{
+	  "ID1": 60,
+	  "ID2": 61,
+	  "type": edge,
+	  "misterious_field": 16,
+	  "color": 0
+	},
+	{
+	  "ID1": 61,
+	  "ID2": 56,
+	  "type": edge,
+	  "misterious_field": 51,
+	  "color": 0
+	},
+	{
+	  "ID1": 6,
+	  "ID2": 4,
+	  "type": edge,
+	  "misterious_field": 48,
+	  "color": 0
+	},
+	{
+	  "ID1": 9,
+	  "ID2": 3,
+	  "type": edge,
+	  "misterious_field": 82,
+	  "color": 0
+	}	{
+	  "ID1": 11,
+	  "ID2": 10,
+	  "type": edge,
+	  "misterious_field": 7,
+	  "color": 1
+	},
+	{
+	  "ID1": 12,
+	  "ID2": 9,
+	  "type": edge,
+	  "misterious_field": 12,
+	  "color": 1
+	},
+	{
+	  "ID1": 13,
+	  "ID2": 11,
+	  "type": edge,
+	  "misterious_field": 10,
+	  "color": 1
+	},
+	{
+	  "ID1": 15,
+	  "ID2": 12,
+	  "type": edge,
+	  "misterious_field": 34,
+	  "color": 1
+	},
+	{
+	  "ID1": 16,
+	  "ID2": 14,
+	  "type": edge,
+	  "misterious_field": 16,
+	  "color": 1
+	},
+	{
+	  "ID1": 17,
+	  "ID2": 15,
+	  "type": edge,
+	  "misterious_field": 14,
+	  "color": 1
+	},
+	{
+	  "ID1": 20,
+	  "ID2": 17,
+	  "type": edge,
+	  "misterious_field": 18,
+	  "color": 1
+	},
+	{
+	  "ID1": 21,
+	  "ID2": 19,
+	  "type": edge,
+	  "misterious_field": 20,
+	  "color": 1
+	},
+	{
+	  "ID1": 24,
+	  "ID2": 21,
+	  "type": edge,
+	  "misterious_field": 18,
+	  "color": 1
+	},
+	{
+	  "ID1": 25,
+	  "ID2": 20,
+	  "type": edge,
+	  "misterious_field": 51,
+	  "color": 1
+	},
+	{
+	  "ID1": 25,
+	  "ID2": 23,
+	  "type": edge,
+	  "misterious_field": 29,
+	  "color": 1
+	},
+	{
+	  "ID1": 26,
+	  "ID2": 24,
+	  "type": edge,
+	  "misterious_field": 23,
+	  "color": 1
+	},
+	{
+	  "ID1": 27,
+	  "ID2": 25,
+	  "type": edge,
+	  "misterious_field": 13,
+	  "color": 1
+	},
+	{
+	  "ID1": 28,
+	  "ID2": 27,
+	  "type": edge,
+	  "misterious_field": 12,
+	  "color": 1
+	},
+	{
+	  "ID1": 2,
+	  "ID2": 0,
+	  "type": edge,
+	  "misterious_field": 7,
+	  "color": 1
+	},
+	{
+	  "ID1": 30,
+	  "ID2": 29,
+	  "type": edge,
+	  "misterious_field": 1,
+	  "color": 1
+	},
+	{
+	  "ID1": 31,
+	  "ID2": 26,
+	  "type": edge,
+	  "misterious_field": 47,
+	  "color": 1
+	},
+	{
+	  "ID1": 33,
+	  "ID2": 28,
+	  "type": edge,
+	  "misterious_field": 29,
+	  "color": 1
+	},
+	{
+	  "ID1": 33,
+	  "ID2": 30,
+	  "type": edge,
+	  "misterious_field": 20,
+	  "color": 1
+	},
+	{
+	  "ID1": 34,
+	  "ID2": 33,
+	  "type": edge,
+	  "misterious_field": 28,
+	  "color": 1
+	},
+	{
+	  "ID1": 35,
+	  "ID2": 32,
+	  "type": edge,
+	  "misterious_field": 51,
+	  "color": 1
+	},
+	{
+	  "ID1": 36,
+	  "ID2": 34,
+	  "type": edge,
+	  "misterious_field": 23,
+	  "color": 1
+	},
+	{
+	  "ID1": 37,
+	  "ID2": 36,
+	  "type": edge,
+	  "misterious_field": 17,
+	  "color": 1
+	},
+	{
+	  "ID1": 38,
+	  "ID2": 35,
+	  "type": edge,
+	  "misterious_field": 29,
+	  "color": 1
+	},
+	{
+	  "ID1": 39,
+	  "ID2": 37,
+	  "type": edge,
+	  "misterious_field": 13,
+	  "color": 1
+	},
+	{
+	  "ID1": 39,
+	  "ID2": 80,
+	  "type": internal,
+	  "misterious_field": 187,
+	  "color": 1
+	},
+	{
+	  "ID1": 40,
+	  "ID2": 39,
+	  "type": edge,
+	  "misterious_field": 13,
+	  "color": 1
+	},
+	{
+	  "ID1": 41,
+	  "ID2": 63,
+	  "type": internal,
+	  "misterious_field": 223,
+	  "color": 1
+	},
+	{
+	  "ID1": 42,
+	  "ID2": 38,
+	  "type": edge,
+	  "misterious_field": 33,
+	  "color": 1
+	},
+	{
+	  "ID1": 44,
+	  "ID2": 38,
+	  "type": edge,
+	  "misterious_field": 43,
+	  "color": 1
+	},
+	{
+	  "ID1": 44,
+	  "ID2": 42,
+	  "type": edge,
+	  "misterious_field": 10,
+	  "color": 1
+	},
+	{
+	  "ID1": 45,
+	  "ID2": 43,
+	  "type": edge,
+	  "misterious_field": 12,
+	  "color": 1
+	},
+	{
+	  "ID1": 45,
+	  "ID2": 74,
+	  "type": internal,
+	  "misterious_field": 210,
+	  "color": 1
+	},
+	{
+	  "ID1": 48,
+	  "ID2": 47,
+	  "type": edge,
+	  "misterious_field": 11,
+	  "color": 1
+	},
+	{
+	  "ID1": 49,
+	  "ID2": 44,
+	  "type": edge,
+	  "misterious_field": 24,
+	  "color": 1
+	},
+	{
+	  "ID1": 52,
+	  "ID2": 51,
+	  "type": edge,
+	  "misterious_field": 14,
+	  "color": 1
+	},
+	{
+	  "ID1": 53,
+	  "ID2": 49,
+	  "type": edge,
+	  "misterious_field": 38,
+	  "color": 1
+	},
+	{
+	  "ID1": 55,
+	  "ID2": 52,
+	  "type": edge,
+	  "misterious_field": 12,
+	  "color": 1
+	},
+	{
+	  "ID1": 57,
+	  "ID2": 55,
+	  "type": edge,
+	  "misterious_field": 8,
+	  "color": 1
+	}	{
+	  "ID1": 10,
+	  "ID2": 8,
+	  "type": edge,
+	  "misterious_field": 4,
+	  "color": 2
+	},
+	{
+	  "ID1": 14,
+	  "ID2": 13,
+	  "type": edge,
+	  "misterious_field": 20,
+	  "color": 2
+	},
+	{
+	  "ID1": 18,
+	  "ID2": 16,
+	  "type": edge,
+	  "misterious_field": 11,
+	  "color": 2
+	},
+	{
+	  "ID1": 19,
+	  "ID2": 18,
+	  "type": edge,
+	  "misterious_field": 5,
+	  "color": 2
+	},
+	{
+	  "ID1": 1,
+	  "ID2": 0,
+	  "type": edge,
+	  "misterious_field": 9,
+	  "color": 2
+	},
+	{
+	  "ID1": 31,
+	  "ID2": 97,
+	  "type": internal,
+	  "misterious_field": 136,
+	  "color": 2
+	},
+	{
+	  "ID1": 3,
+	  "ID2": 1,
+	  "type": edge,
+	  "misterious_field": 13,
+	  "color": 2
+	},
+	{
+	  "ID1": 41,
+	  "ID2": 40,
+	  "type": edge,
+	  "misterious_field": 10,
+	  "color": 2
+	},
+	{
+	  "ID1": 43,
+	  "ID2": 41,
+	  "type": edge,
+	  "misterious_field": 18,
+	  "color": 2
+	},
+	{
+	  "ID1": 50,
+	  "ID2": 48,
+	  "type": edge,
+	  "misterious_field": 11,
+	  "color": 2
+	},
+	{
+	  "ID1": 51,
+	  "ID2": 50,
+	  "type": edge,
+	  "misterious_field": 11,
+	  "color": 2
+	},
+	{
+	  "ID1": 58,
+	  "ID2": 57,
+	  "type": edge,
+	  "misterious_field": 5,
+	  "color": 2
+	},
+	{
+	  "ID1": 5,
+	  "ID2": 3,
+	  "type": edge,
+	  "misterious_field": 33,
+	  "color": 2
+	},
+	{
+	  "ID1": 7,
+	  "ID2": 5,
+	  "type": edge,
+	  "misterious_field": 30,
+	  "color": 2
+	},
+	{
+	  "ID1": 8,
+	  "ID2": 7,
+	  "type": edge,
+	  "misterious_field": 12,
+	  "color": 2
+	},
+	{
+	  "ID1": 9,
+	  "ID2": 6,
+	  "type": edge,
+	  "misterious_field": 8,
+	  "color": 2
+	}	{
+	  "ID1": 21,
+	  "ID2": 71,
+	  "type": internal,
+	  "misterious_field": 162,
+	  "color": 3
+	},
+	{
+	  "ID1": 59,
+	  "ID2": 58,
+	  "type": edge,
+	  "misterious_field": 70,
+	  "color": 3
+	}	{
+	  "ID1": 32,
+	  "ID2": 31,
+	  "type": edge,
+	  "misterious_field": 6,
+	  "color": 4
+	},
+	{
+	  "ID1": 60,
+	  "ID2": 59,
+	  "type": edge,
+	  "misterious_field": 1,
+	  "color": 4
+	}	{
+	  "ID1": 27,
+	  "ID2": 92,
+	  "type": internal,
+	  "misterious_field": 18,
+	  "color": 5
+	},
+	{
+	  "ID1": 29,
+	  "ID2": 30,
+	  "type": edge,
+	  "misterious_field": 1,
+	  "color": 5
+	},
+	{
+	  "ID1": 34,
+	  "ID2": 36,
+	  "type": edge,
+	  "misterious_field": 23,
+	  "color": 5
+	},
+	{
+	  "ID1": 39,
+	  "ID2": 40,
+	  "type": edge,
+	  "misterious_field": 13,
+	  "color": 5
+	},
+	{
+	  "ID1": 39,
+	  "ID2": 55,
+	  "type": edge,
+	  "misterious_field": 103,
+	  "color": 5
+	},
+	{
+	  "ID1": 39,
+	  "ID2": 57,
+	  "type": edge,
+	  "misterious_field": 111,
+	  "color": 5
+	},
+	{
+	  "ID1": 39,
+	  "ID2": 58,
+	  "type": edge,
+	  "misterious_field": 115,
+	  "color": 5
+	},
+	{
+	  "ID1": 41,
+	  "ID2": 52,
+	  "type": edge,
+	  "misterious_field": 69,
+	  "color": 5
+	}	{
+	  "ID1": 18,
+	  "ID2": 19,
+	  "type": edge,
+	  "misterious_field": 5,
+	  "color": 6
+	},
+	{
+	  "ID1": 39,
+	  "ID2": 56,
+	  "type": edge,
+	  "misterious_field": 197,
+	  "color": 6
+	},
+	{
+	  "ID1": 39,
+	  "ID2": 61,
+	  "type": edge,
+	  "misterious_field": 164,
+	  "color": 6
+	},
+	{
+	  "ID1": 41,
+	  "ID2": 43,
+	  "type": edge,
+	  "misterious_field": 18,
+	  "color": 6
+	},
+	{
+	  "ID1": 48,
+	  "ID2": 50,
+	  "type": edge,
+	  "misterious_field": 11,
+	  "color": 6
+	},
+	{
+	  "ID1": 48,
+	  "ID2": 51,
+	  "type": edge,
+	  "misterious_field": 22,
+	  "color": 6
+	},
+	{
+	  "ID1": 8,
+	  "ID2": 10,
+	  "type": edge,
+	  "misterious_field": 4,
+	  "color": 6
+	}
+  ]
+}

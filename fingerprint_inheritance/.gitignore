@@ -1,0 +1,52 @@
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+ImageProcessing/out/
+build/
+*.iml
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+bin/
+
+#Data
+Data/
+
+# Project
+nbproject/
+ImageProcessing/.idea/
+.metadata/
+.classpath
+.project
+
+# Test files
+ImageProcessing/tests/.DS_Store
+
+#DS_Store
+.*DS_Store

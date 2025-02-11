@@ -1,0 +1,9 @@
+Lanciare i file java
+MainPistore --> genera il file della stringa dell'impronta e delle minuzie.
+ProvaGardeniaMain --> vengono chiesti il path della cartella contenente le impronte e i nomi delle due cartelle delle impronte che vogliamo confrontare.
+
+eseguire il file bash
+color_ridges_gardenia.sh
+
+eseguire il file java
+DrowColoredRidges

@@ -1,0 +1,65 @@
+clingo version 5.2.2
+Reading from colourordergraph.asp ...
+Solving...
+Answer: 1
+sizeiso(0) sizeiso100(0)
+Optimization: 0
+Answer: 2
+sizeiso(0) sizeiso100(2)
+Optimization: -2
+Answer: 3
+sizeiso(0) sizeiso100(4)
+Optimization: -4
+Answer: 4
+sizeiso(0) sizeiso100(6)
+Optimization: -6
+Answer: 5
+sizeiso(0) sizeiso100(8)
+Optimization: -8
+Answer: 6
+sizeiso(0) sizeiso100(10)
+Optimization: -10
+Answer: 7
+sizeiso(4) sizeiso100(8)
+Optimization: -12
+Answer: 8
+sizeiso(4) sizeiso100(10)
+Optimization: -14
+Answer: 9
+sizeiso(4) sizeiso100(12)
+Optimization: -16
+Answer: 10
+sizeiso(6) sizeiso100(12)
+Optimization: -18
+Answer: 11
+sizeiso(6) sizeiso100(13)
+Optimization: -19
+Answer: 12
+sizeiso(6) sizeiso100(14)
+Optimization: -20
+Answer: 13
+sizeiso(6) sizeiso100(15)
+Optimization: -21
+Answer: 14
+sizeiso(6) sizeiso100(16)
+Optimization: -22
+Answer: 15
+sizeiso(6) sizeiso100(17)
+Optimization: -23
+Answer: 16
+sizeiso(6) sizeiso100(18)
+Optimization: -24
+Answer: 17
+sizeiso(8) sizeiso100(17)
+Optimization: -25
+Answer: 18
+sizeiso(8) sizeiso100(18)
+Optimization: -26
+OPTIMUM FOUND
+
+Models       : 18
+  Optimum    : yes
+Optimization : -26
+Calls        : 1
+Time         : 488.980s (Solving: 428.49s 1st Model: 5.72s Unsat: 378.09s)
+CPU Time     : 479.969s

@@ -1,0 +1,53 @@
+clingo version 5.2.2
+Reading from digit1.asp ...
+Solving...
+Answer: 1
+sizeiso(0)
+Optimization: 0
+Answer: 2
+sizeiso(2)
+Optimization: -2
+Answer: 3
+sizeiso(4)
+Optimization: -4
+Answer: 4
+sizeiso(6)
+Optimization: -6
+Answer: 5
+sizeiso(8)
+Optimization: -8
+Answer: 6
+sizeiso(10)
+Optimization: -10
+Answer: 7
+sizeiso(12)
+Optimization: -12
+Answer: 8
+sizeiso(34)
+Optimization: -34
+Answer: 9
+sizeiso(35)
+Optimization: -35
+Answer: 10
+sizeiso(37)
+Optimization: -37
+Answer: 11
+sizeiso(38)
+Optimization: -38
+Answer: 12
+sizeiso(54)
+Optimization: -54
+Answer: 13
+sizeiso(57)
+Optimization: -57
+SATISFIABLE
+
+INTERRUPTED  : 1
+Models       : 13+
+  Optimum    : unknown
+Optimization : -57
+Bounds       : [-6912866;-57]
+Calls        : 1
+Time         : 268.753s (Solving: 195.02s 1st Model: 27.17s Unsat: 0.00s)
+CPU Time     : 760.141s
+Threads      : 4        (Winner: 4)

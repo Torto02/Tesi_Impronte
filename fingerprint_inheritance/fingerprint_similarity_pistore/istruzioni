@@ -1,0 +1,35 @@
+Per estrarre le minuzie ed i ridges e generare i grafi:
+	generate_graphs.py
+		inserire il path della cartella con i file estratti da SourceAfis (folderPath)
+		Salva il file creati in una cartella con nome folderPath + "studies"
+		I controlli sulle minuzie e i ridges possono essere commentati
+		Tutte le stampe di scheletro, minuzie e i grafi sono commentate, se decommentate vengono salvate nella cartella folderPath + "studies" per ogni impronta
+		
+Per trovare gli isomorfismi su tutti i grafi:
+	isomorphism_all_graph.ipynb
+	Ogni impronta viene confrontata con tutte le impronte della stassa persona, tutte le impronte di parenti stretti e 11 impronte di estrarei
+	I risultati vengono salvati nella cartella path_save_images
+	Per ogni isomorfismo trovato viene creato un file con o dati dei sottografi trovati
+
+Nella cartella eseguibili sono presenti tutti gli eseguibili da usare sul computer dei RIS. Gli eseguibili funzionano solo su Windows
+	
+I 3 file analyze_*.ipynb analizzano i punteggi ottenuti:
+	- analyze_cover_node_isomorphism.ipynb calcola il punteggio di copertura dei nodi. La parte commentata della prima cella serve per salvare su file i risultati (calcolare i punteggi richiede qualche minuto). Se si hanno già i risultati tenere commentata, altrimenti bisogna ricalcolarli.
+	 - analyze_number_isomorphism.ipynb conta e analizza il numero di isomorfismi per coppia di grafi
+	 - analyze_number_nodes_isomorphism.ipynb analizza il numero di nodi per isomorfismo per coppia di grafi
+	 
+compare_fingerprint_similarity.py serve per stampare le immagini con i cluster di minuzie, viene stampato sullo scheletro, quindi si utilizza con le impronte che abbiamo, altrimenti deve essere usato dai RIS, nella cartella eseguibili è presente l'eseguibile con lo stesso nome.
+
+pipeline_windows.ps1 serve per generare i file di SourceAFIS utilizzando extract_f_files.jar.
+
+isomorphism_images.ipynb stampa le immagini degli isomorfismi
+
+resize_images.py ridimensiona le immagini delle impronte a 500dpi
+
+ridge_count.py calcola il ridge count per ogni minuzia per ogni impronta rispetto al centro di figura
+
+skeltonUtils.py contiene tutte le funzioni per estrarre le minuzie, i ridges e creare il grafo con i nodi e gli archi aggiunti
+
+isomorphismUtils.py contiene tutte le funzioni per trovare gli isomorfismi. 
+La funzione find_all_isomorphism prende in input i due grafi e la differenza di ridge count perchè i due nodi siano compatibili.  
+ 

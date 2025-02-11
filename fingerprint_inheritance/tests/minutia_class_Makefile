@@ -1,0 +1,25 @@
+#Makefile
+
+OBJS	= build/test.o build/jsoncpp.o build/fp_minutia.o build/names_retriever.o
+
+CC	= g++
+CFLAGS	= -g -Wall
+
+out:		$(OBJS)
+		$(CC) $(CFLAGS) $(OBJS) -o bin/out
+
+
+build/jsoncpp.o: lib/json/jsoncpp.cpp lib/json/include/json.h  lib/json/include/json-forwards.h
+	$(CC) $(CFLAGS) -c lib/json/jsoncpp.cpp -o build/jsoncpp.o
+
+build/fp_minutia.o:	include/fp_minutia.cpp lib/json/include/json.h
+	$(CC) $(CFLAGS) -c include/fp_minutia.cpp -o build/fp_minutia.o
+	
+build/names_retriever.o: include/names_retriever.cpp
+	$(CC) $(CFLAGS) -c include/names_retriever.cpp -o build/names_retriever.o
+
+build/test.o:	src/test.cpp lib/json/include/json.h include/fp_minutia.h include/names_retriever.h
+	$(CC) $(CFLAGS) -c src/test.cpp -o build/test.o
+
+clean:
+	rm -f build/*.o bin/out
